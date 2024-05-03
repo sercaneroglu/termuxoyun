@@ -17,7 +17,7 @@ visit : https://t.me/sercandev
 ```pkg install git -y```
 <br>
 <br>
-```git clone https://github.com/sercaneroglu/termuxoyun/```
+```git clone https://github.com/sercaneroglu/termuxoyun```
 <br><br>
 ```cd Termux-Games```
 <br><br>
