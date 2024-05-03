@@ -19,7 +19,7 @@ visit : https://t.me/sercandev
 <br>
 ```git clone https://github.com/sercaneroglu/termuxoyun```
 <br><br>
-```cd Termux-Games```
+```cd termuxoyun```
 <br><br>
 ```chmod +x *```
 <br><br>
